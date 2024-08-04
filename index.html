@@ -2,18 +2,103 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Profile</title>
+    <link rel="stylesheet" href="style.css" />
+    <title>Bianca's Portfolio</title>
   </head>
-
   <body>
-    <p>Hello World</p>
-    <h2>Look, a picture of a silly dog</h2>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/48/Silly_Dog_%282277051513%29.jpg"
-      alt="A silly looking dog."
-      width="400px"
-    />
+    <header>
+      <img class="flower-2" src="images/flower-2.png" alt="Flower-Pic-2" />
+      <a href="/">
+        <img class="b-logo" src="images/botanical-letter.png" alt="My Logo" />
+      </a>
+
+      <div class="topnav">
+        <a href="/">Home 🍄</a>
+        <a href="Projects.html">Projects 🍄</a>
+        <a href="#contact">Contact 🍄</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img
+          class="b-pic"
+          src="Images/Bianca-Portfolio-Pic.jpg"
+          alt="Profile Image"
+        />
+
+        <p>
+          "Hi, I'm Bianca Di Biase, a well-read bookseller at Dymocks Books with
+          extensive experience in customer service and retail. My background
+          also includes working in reception and administrative roles,
+          showcasing my versatility and commitment to providing excellent
+          service. Currently, I'm expanding my skill set by studying coding at
+          SheCodes Australia in Perth. My goal is to use my newly aquired skills
+          to become a front-end developer and mentor other women through their
+          own coding journeys. In my free time, I enjoy a variety of creative
+          activities, such as painting, knitting, and making jewellery. I'm also
+          passionate about stories, taking pictures, occasiona gaming and
+          immersing myself in music and podcasts. Welcome to my personal
+          website, where I share my journey, interests, and projects. Feel free
+          to connect with me and explore my work!"
+        </p>
+      </section>
+    </main>
   </body>
+  <hr class="rounded" />
+  <footer id="contact">Get in Touch! 📮</footer>
+  <div class="container">
+    <form action="action_page.php">
+      <label for="fname">First Name</label>
+      <input
+        type="text"
+        id="fname"
+        name="firstname"
+        placeholder="Your name.."
+      />
+
+      <label for="lname">Last Name</label>
+      <input
+        type="text"
+        id="lname"
+        name="lastname"
+        placeholder="Your last name.."
+      />
+
+      <label for="country">Country</label>
+      <select id="country" name="country">
+        <option value="australia">Australia</option>
+        <option value="canada">Canada</option>
+        <option value="usa">USA</option>
+      </select>
+
+      <label for="subject">Subject</label>
+      <textarea
+        id="subject"
+        name="subject"
+        placeholder="Write something.."
+        style="height: 200px"
+      ></textarea>
+
+      <input type="submit" value="Submit" />
+    </form>
+  </div>
+
+  <div class="social-media">
+    <a target="_blank" href="https://github.com/Beanolini"
+      ><img class="github-logo" src="images/github-mark.png" alt="Github-Link"
+    /></a>
+
+    <a
+      target="_blank"
+      href="https://www.linkedin.com/in/bianca-di-biase-aa2509321"
+      ><img
+        class="linkedin-logo"
+        src="images/linkedin-mark.png"
+        alt="Linkedin-Link"
+    /></a>
+  </div>
+
+  <img class="flower-1" src="images/flower-1.png" alt="Flower-Pic-1" />
 </html>
