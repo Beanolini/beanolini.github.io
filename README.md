@@ -1,14 +1,13 @@
 # Bianca_DiBiase - Portfolio Task
 
 ​
-[My portfolio site](beanolini.github.io)
+[My portfolio site](https://beanolini.github.io/)
 ​
 
 ## Project Requirements
 
 ### Content
 
-Add a short paragraph describing the features below. What aesthetic and technical choices did you make?
 I'm a pretty visual person, so I tried not to spend too much time choosing colours and fonts, and get too caught up in the small details. I tried my best to trust my instincts and chose things I was aesthetically drawn to. I chose a picture taken in Hyde Park at the beginning of the year because it captured a nice memory, I used Chat GPT to help write my biography and I googled and copied and pasted to make the contact form. I used Formspree to make the form functional. I used a coding project I did for Shecodes.io last year and put in a picture I found on Google as a placeholder for the second project. I used icons for the external sites and added links.
 
 - [ ] At least one profile picture
@@ -47,64 +46,64 @@ Add a short paragraph describing the features below, if you included any.
 
 #### screen-shot-1-desktop
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-1-desktop.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-1-desktop.png)
 
 #### screen-shot-2-desktop
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-2-desktop.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-2-desktop.png)
 
 #### screen-shot-3-desktop
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-3-desktop.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-3-desktop.png)
 
 #### screen-shot-4-desktop
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-4-desktop.png)
+![Screenshot of Page 2 in Desktop View](/.images/screen-shot-4-desktop.png)
 
 #### screen-shot-5-desktop
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-5-desktop.png)
+![Screenshot of Page 2 in Desktop View](./images/screen-shot-5-desktop.png)
 
 #### screen-shot-6-desktop
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-6-desktop.png)
+![Screenshot of Page 2 in Desktop View](./images/screen-shot-6-desktop.png)
 
 #### screen-shot-7-desktop
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-7-desktop.png)
+![Screenshot of Page 2 in Desktop View](./images/screen-shot-7-desktop.png)
 
 #### screen-shot-1-mobile
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-1-mobile.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-1-mobile.png)
 
 #### screen-shot-2-mobile
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-2-mobile.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-2-mobile.png)
 
 #### screen-shot-3-mobile
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-3-mobile.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-3-mobile.png)
 
 #### screen-shot-4-mobile
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-4-mobile.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-4-mobile.png)
 
 #### screen-shot-5-mobile
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-5-mobile.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-5-mobile.png)
 
 #### screen-shot-6-mobile
 
-![Screenshot of Page 1 in Desktop View](/images/screen-shot-6-mobile.png)
+![Screenshot of Page 1 in Desktop View](./images/screen-shot-6-mobile.png)
 
 #### screen-shot-7-mobile
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-7-mobile.png)
+![Screenshot of Page 2 in Desktop View](./images/screen-shot-7-mobile.png)
 
 #### screen-shot-8-mobile
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-8-mobile.png)
+![Screenshot of Page 2 in Desktop View](./images/screen-shot-8-mobile.png)
 
 #### screen-shot-9-mobile
 
-![Screenshot of Page 2 in Desktop View](/images/screen-shot-9-mobile.png)
+![Screenshot of Page 2 in Desktop View](./images/screen-shot-9-mobile.png)
