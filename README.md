@@ -1,7 +1,7 @@
 # Bianca_DiBiase - Portfolio Task
 
 ​
-[My portfolio site](beanolinibeanolini.github.io)
+[My portfolio site](beanolini.github.io)
 ​
 
 ## Project Requirements
