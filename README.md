@@ -6,7 +6,7 @@
 
 ## Project Requirements
 
-### Content
+### Content 
 
 I'm a pretty visual person, so I tried not to spend too much time choosing colours and fonts, and get too caught up in the small details. I tried my best to trust my instincts and chose things I was aesthetically drawn to. I chose a picture taken in Hyde Park at the beginning of the year because it captured a nice memory, I used Chat GPT to help write my biography and I googled and copied and pasted to make the contact form. I used Formspree to make the form functional. I used a coding project I did for Shecodes.io last year and put in a picture I found on Google as a placeholder for the second project. I used icons for the external sites and added links.
 
